@@ -20,7 +20,7 @@ cyber security
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/aman18raj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/aman18raj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p><p align="right"> <ahref="https:instagram.com/___aryan18__" target="blank" rel=noreferrer"><img src="https://raw.intagrambusercontent.com/danielcranney/readme-generator/main/public/icons/socials/insta.svg" width="32" height="32" /></a></p>
 
 ### Support Me
 
