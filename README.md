@@ -34,4 +34,4 @@ src="https://img.shields.io/twitter/follow/akraj90605?logo=twitter&style=for-the
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/Amanraj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-                  href="https://www.buymeacoffee.com/Amanraj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
