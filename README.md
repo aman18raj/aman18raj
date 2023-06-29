@@ -6,7 +6,7 @@ cyber security
 
 i am pursuing my b.tech from DIT university dream to be a good hacker
 
-* 🌍  I'm based in 
+* 🌍  I'm based in India
 * ✉️  You can contact me at [akraj90605@gmail.com](mailto:akraj90605@gmail.com)
 * 🧠  I'm learning JAVA 
 * 🧠  I'm also learning cyber security as well
