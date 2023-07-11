@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 cyber security
 --------------
 
-i am pursuing my b.tech from DIT university recently
+i am pursuing my b.tech from DIT university.
 
 * 🌍  I'm based in india
 * ✉️  You can contact me at [akraj90605@gmail.com](mailto:akraj90605@gmail.com)
