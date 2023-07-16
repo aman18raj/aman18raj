@@ -5,6 +5,8 @@ cyber security
 --------------
 
 i am pursuing my b.tech from DIT university.
+I'm passionate about the transformative power of technology and its ability to shape our future. As a technology enthusiast, I believe in the immense possibilities and innovations that arise from embracing new advancements.
+"Technology is best when it brings people together." This quote resonates with me as it highlights the importance of technology in fostering connections and bridging gaps between individuals and communities
 
 * 🌍  I'm based in india
 * ✉️  You can contact me at [akraj90605@gmail.com](mailto:akraj90605@gmail.com)
