@@ -24,7 +24,7 @@ src="https://img.shields.io/twitter/follow/akraj90605?logo=twitter&style=for-the
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://tse2.mm.bing.net/th/id/OIP.bLo_vI4CJxEatSR55mGsMQHaKe?cb=thvnextc2&rs=1&pid=ImgDetMain&o=7&rm=3" target="_blank" rel="noreferrer"><img src="https://tse2.mm.bing.net/th/id/OIP.bLo_vI4CJxEatSR55mGsMQHaKe?cb=thvnextc2&rs=1&pid=ImgDetMain&o=7&rm=3" width="36" height="36" alt="HTML5" /></a>
+
 </p>
 
 
