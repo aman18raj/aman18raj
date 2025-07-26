@@ -37,4 +37,7 @@ src="https://img.shields.io/twitter/follow/akraj90605?logo=twitter&style=for-the
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/Amanraj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+style="list-style-type: none; margin: 0;">
+
+<a href="https://www.ko-fi.com/aman raj"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
