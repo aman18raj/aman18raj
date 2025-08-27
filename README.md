@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 cyber security
 --------------
 
-i am pursuing my b.tech from DIT university.                                                                                                                              
+i am pursuing my b.tech from DIT university.                                                                                                                             
 I'm passionate about the transformative power of technology and its ability to shape our future. As a technology enthusiast, I believe in the immense possibilities and innovations that arise from embracing new advancements.
 "Technology is best when it brings people together." This quote resonates with me as it highlights the importance of technology in fostering connections and bridging gaps between individuals and communities
 
